@@ -1,0 +1,66 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Evgenii\Documents\AltiumWorkspace\DataBaseAD\AltiumDB.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access 2007
+LibraryDatabasePath=C:\Users\Evgenii\Documents\AltiumWorkspace\DataBaseAD\AltiumDB.accdb
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=C:\Users\Evgenii\Documents\AltiumWorkspace\DataBaseAD\SCH;C:\Users\Evgenii\Documents\AltiumWorkspace\DataBaseAD\PCB
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+SchemaName=
+LastFocusedTable=Resistor-SMD-0805
+[Table1]
+SchemaName=
+TableName=Capacitors-SMD-0805
+Enabled=True
+UserWhere=1
+UserWhereText=[Manufacturer Part Number] = '{Manufacturer Part Number}' AND [Footprint Density] = '{Footprint Density}'
+BrowserOrder_Sorting=Footprint Density0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=224|Library Ref0=125|Footprint Ref0=92|Library Path0=135|Footprint Path0=147|Manufacturer Part Number0=160|Footprint Density0=113|Manufacturer0=103|Value0=52|Type0=57|Group0=62|Device Package0=101|Tolerance0=73|Dielectric type0=95|Nominal Voltage0=109|Max Operating Temperature0=168|Min Operating Temperature0=167|ComponentLink1URL0=131|ComponentLink1Description0=170|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|AEQ0=58
+[Table2]
+SchemaName=
+TableName=Density types
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Resistor-SMD-0805
+Enabled=True
+UserWhere=1
+UserWhereText=[Manufacturer Part Number] = '{Manufacturer Part Number}' AND [Footprint Density] = '{Footprint Density}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=199|Library Ref0=77|Footprint Ref0=92|Library Path0=127|Footprint Path0=139|Manufacturer Part Number0=160|Footprint Density0=113|Manufacturer0=93|Value0=52|Type0=49|Group0=56|Device Package0=101|Tolerance0=73|Power (Watts)0=94|Nominal Voltage0=109|Max Voltage0=87|Max Operating Temperature0=168|Min Operating Temperature0=167|ComponentLink1URL0=131|ComponentLink1Description0=170|Supplier 10=75|Supplier Part Number 10=142|RoHS0=51|AEQ0=44
+[FieldMap1]
+Options=FieldName=Capacitors-SMD-0805.Description|TableNameOnly=Capacitors-SMD-0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Capacitors-SMD-0805.Library Ref|TableNameOnly=Capacitors-SMD-0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Capacitors-SMD-0805.Footprint Ref|TableNameOnly=Capacitors-SMD-0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Capacitors-SMD-0805.Library Path|TableNameOnly=Capacitors-SMD-0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitors-SMD-0805.Footprint Path|TableNameOnly=Capacitors-SMD-0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Resistor-SMD-0805.Description|TableNameOnly=Resistor-SMD-0805|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Resistor-SMD-0805.Library Ref|TableNameOnly=Resistor-SMD-0805|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Resistor-SMD-0805.Footprint Ref|TableNameOnly=Resistor-SMD-0805|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Resistor-SMD-0805.Library Path|TableNameOnly=Resistor-SMD-0805|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Resistor-SMD-0805.Footprint Path|TableNameOnly=Resistor-SMD-0805|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
