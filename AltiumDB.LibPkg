@@ -211,7 +211,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UHCRJNMB
 
 [Document11]
-DocumentPath=configDtatabaseAD.DbLib
+DocumentPath=configDatabaseAD.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
