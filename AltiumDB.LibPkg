@@ -41,6 +41,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=SCH\DiodsSymbol.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XKDSYTTB
+
+[Document2]
 DocumentPath=SCH\ConnectorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -57,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBRPPSEO
 
-[Document2]
+[Document3]
 DocumentPath=SCH\CapacitorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKDSYTTB
 
-[Document3]
+[Document4]
 DocumentPath=SCH\InductorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQFTPYQC
 
-[Document4]
+[Document5]
 DocumentPath=SCH\ICs_Symbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPBEGFIR
 
-[Document5]
+[Document6]
 DocumentPath=SCH\ResistorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNABEIGS
 
-[Document6]
+[Document7]
 DocumentPath=PCB\CapacitorsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DKHIDLYC
 
-[Document7]
+[Document8]
 DocumentPath=PCB\ResistorsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBLCVFIN
 
-[Document8]
+[Document9]
 DocumentPath=PCB\InductorsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNALSQSI
 
-[Document9]
+[Document10]
 DocumentPath=PCB\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EROLRROL
 
-[Document10]
+[Document11]
 DocumentPath=PCB\ICs_Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHCRJNMB
 
-[Document11]
+[Document12]
 DocumentPath=configDatabaseAD.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
