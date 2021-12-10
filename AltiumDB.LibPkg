@@ -40,6 +40,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=configDatabaseAD.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=SCH\DiodsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSBCHLXC
 
-[Document2]
+[Document3]
 DocumentPath=SCH\ConnectorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBRPPSEO
 
-[Document3]
+[Document4]
 DocumentPath=SCH\CapacitorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKDSYTTB
 
-[Document4]
+[Document5]
 DocumentPath=SCH\InductorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQFTPYQC
 
-[Document5]
+[Document6]
 DocumentPath=SCH\ICs_Symbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPBEGFIR
 
-[Document6]
+[Document7]
 DocumentPath=SCH\ResistorsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNABEIGS
 
-[Document7]
+[Document8]
 DocumentPath=PCB\CapacitorsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DKHIDLYC
 
-[Document8]
+[Document9]
 DocumentPath=PCB\ResistorsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBLCVFIN
 
-[Document9]
+[Document10]
 DocumentPath=PCB\InductorsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNALSQSI
 
-[Document10]
+[Document11]
 DocumentPath=PCB\Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EROLRROL
 
-[Document11]
+[Document12]
 DocumentPath=PCB\ICs_Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UHCRJNMB
 
-[Document12]
+[Document13]
 DocumentPath=PCB\PowerCases.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDFVMQLA
 
-[Document13]
+[Document14]
 DocumentPath=PCB\DiodsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHNVOOLI
 
-[Document14]
+[Document15]
 DocumentPath=PCB\QuartzFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STDCJSMU
 
-[Document15]
+[Document16]
 DocumentPath=PCB\PadsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +311,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLERWOTW
 
-[Document16]
+[Document17]
 DocumentPath=SCH\PADsHoles.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +328,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RFEMWOBR
 
-[Document17]
+[Document18]
 DocumentPath=SCH\MCUsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -328,7 +345,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNBMGEKA
 
-[Document18]
+[Document19]
 DocumentPath=SCH\CrystalsSymbol.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
